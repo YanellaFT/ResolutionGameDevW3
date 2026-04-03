@@ -15,3 +15,5 @@ Lapse:
 [Part 7](https://lapse.hackclub.com/timelapse/q5NpkTTQP-fw)
 
 Use wasd or arrow keys to move! (yes, it is based off of Snoozefest's theme even though I didn't submit it for it! :P )
+
+Play [HERE](https://booleanbunny14.itch.io/resolutiongamedevw3)!!!
